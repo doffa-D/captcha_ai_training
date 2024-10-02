@@ -1,0 +1,136 @@
+Available CPU cores: 16
+Total samples: 20000
+Valid samples: 20000
+Training samples: 15000 Testing samples: 5000
+Loaded pre-trained model from 'best_model.pth' (excluding the final layer).
+Epoch: 1    Loss: 0.2394
+Epoch: 2    Loss: 0.1095
+Epoch: 3    Loss: 0.0951
+Epoch: 4    Loss: 0.0883
+Epoch: 5    Loss: 0.0822
+Validation Loss: 0.0893
+Best model saved with validation loss 0.0893
+Epoch: 6    Loss: 0.0834
+Epoch: 7    Loss: 0.0756
+Epoch: 8    Loss: 0.0768
+Epoch: 9    Loss: 0.0716
+Epoch: 10    Loss: 0.0773
+Validation Loss: 0.0542
+Best model saved with validation loss 0.0542
+Epoch: 11    Loss: 0.0713
+Epoch: 12    Loss: 0.0698
+Epoch: 13    Loss: 0.0709
+Epoch: 14    Loss: 0.0716
+Epoch: 15    Loss: 0.0687
+Validation Loss: 0.0856
+Epoch: 16    Loss: 0.0683
+Epoch: 17    Loss: 0.0682
+Epoch: 18    Loss: 0.0670
+Epoch: 19    Loss: 0.0721
+Epoch: 20    Loss: 0.0689
+Validation Loss: 0.0624
+Epoch: 21    Loss: 0.0706
+Epoch: 22    Loss: 0.0689
+Epoch: 23    Loss: 0.0665
+Epoch: 24    Loss: 0.0610
+Epoch: 25    Loss: 0.0655
+Validation Loss: 0.0812
+Epoch: 26    Loss: 0.0636
+Epoch: 27    Loss: 0.0734
+Epoch: 28    Loss: 0.0659
+Epoch: 29    Loss: 0.0639
+Epoch: 30    Loss: 0.0630
+Validation Loss: 0.0436
+Best model saved with validation loss 0.0436
+Epoch: 31    Loss: 0.0274
+Epoch: 32    Loss: 0.0229
+Epoch: 33    Loss: 0.0226
+Epoch: 34    Loss: 0.0212
+Epoch: 35    Loss: 0.0204
+Validation Loss: 0.0211
+Best model saved with validation loss 0.0211
+Epoch: 36    Loss: 0.0209
+Epoch: 37    Loss: 0.0194
+Epoch: 38    Loss: 0.0195
+Epoch: 39    Loss: 0.0196
+Epoch: 40    Loss: 0.0188
+Validation Loss: 0.0236
+Epoch: 41    Loss: 0.0188
+Epoch: 42    Loss: 0.0183
+Epoch: 43    Loss: 0.0184
+Epoch: 44    Loss: 0.0183
+Epoch: 45    Loss: 0.0183
+Validation Loss: 0.0210
+Best model saved with validation loss 0.0210
+Epoch: 46    Loss: 0.0180
+Epoch: 47    Loss: 0.0178
+Epoch: 48    Loss: 0.0175
+Epoch: 49    Loss: 0.0177
+Epoch: 50    Loss: 0.0181
+Validation Loss: 0.0219
+Epoch: 51    Loss: 0.0169
+Epoch: 52    Loss: 0.0179
+Epoch: 53    Loss: 0.0178
+Epoch: 54    Loss: 0.0167
+Epoch: 55    Loss: 0.0176
+Validation Loss: 0.0251
+Epoch: 56    Loss: 0.0179
+Epoch: 57    Loss: 0.0173
+Epoch: 58    Loss: 0.0180
+Epoch: 59    Loss: 0.0169
+Epoch: 60    Loss: 0.0175
+Validation Loss: 0.0221
+Epoch: 61    Loss: 0.0154
+Epoch: 62    Loss: 0.0144
+Epoch: 63    Loss: 0.0137
+Epoch: 64    Loss: 0.0147
+Epoch: 65    Loss: 0.0142
+Validation Loss: 0.0179
+Best model saved with validation loss 0.0179
+Epoch: 66    Loss: 0.0143
+Epoch: 67    Loss: 0.0142
+Epoch: 68    Loss: 0.0141
+Epoch: 69    Loss: 0.0141
+Epoch: 70    Loss: 0.0139
+Validation Loss: 0.0175
+Best model saved with validation loss 0.0175
+Epoch: 71    Loss: 0.0139
+Epoch: 72    Loss: 0.0142
+Epoch: 73    Loss: 0.0143
+Epoch: 74    Loss: 0.0139
+Epoch: 75    Loss: 0.0133
+Validation Loss: 0.0166
+Best model saved with validation loss 0.0166
+Epoch: 76    Loss: 0.0138
+Epoch: 77    Loss: 0.0139
+Epoch: 78    Loss: 0.0144
+Epoch: 79    Loss: 0.0141
+Epoch: 80    Loss: 0.0139
+Validation Loss: 0.0163
+Best model saved with validation loss 0.0163
+Epoch: 81    Loss: 0.0137
+Epoch: 82    Loss: 0.0140
+Epoch: 83    Loss: 0.0141
+Epoch: 84    Loss: 0.0142
+Epoch: 85    Loss: 0.0135
+Validation Loss: 0.0170
+Epoch: 86    Loss: 0.0139
+Epoch: 87    Loss: 0.0139
+Epoch: 88    Loss: 0.0140
+Epoch: 89    Loss: 0.0134
+Epoch: 90    Loss: 0.0139
+Validation Loss: 0.0165
+Epoch: 91    Loss: 0.0141
+Epoch: 92    Loss: 0.0139
+Epoch: 93    Loss: 0.0133
+Epoch: 94    Loss: 0.0142
+Epoch: 95    Loss: 0.0135
+Validation Loss: 0.0168
+Epoch: 96    Loss: 0.0139
+Epoch: 97    Loss: 0.0138
+Epoch: 98    Loss: 0.0137
+Epoch: 99    Loss: 0.0139
+Epoch: 100    Loss: 0.0137
+Validation Loss: 0.0164
+Test Accuracy: 98.78%
+Correct predictions saved to correct_predictions.txt
